@@ -1,0 +1,51 @@
+1. Before doing any other investigation, list two or three questions that this infographic 
+and explanation of methodology raise in your mind.
+What kind of relationships are we talking about when it comes to breaking up? Marriage or just casually dating around?
+Are the people actually getting the food mentioned or are they just searching it up?
+Why is there no Chinese food?
+Why did we choose from February 2024 to February 2025?
+
+2. Where can you find Google Trends search data? Provide the URL.
+https://trends.google.com/home
+
+3. The article concluded that “milkshakes take the crown as the ultimate breakup food, 
+topping the list in six states.” Pull up Google Trends data on Milkshake (beverage) and 
+change the date range to February 1, 2024 through February 28, 2025.
+a) What is the highest peak recorded in the line chart for “Interest over time”?
+100 
+b) What is the lowest dip recorded?
+61
+
+4. At the top next to the box for “Milkshake,” there is a plus sign to add another search 
+term. Click the plus sign to add a search for Hamburger (Food).
+a) What is the highest peak recorded for searches using Hamburger? What is the 
+lowest dip?
+100, 61
+b) What happened to the line for Milkshake? What do the high and low look like now?
+The interest line dropped significantly 
+The new high is 28 an the lowest is 17
+
+5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest 
+over time” for more information about how trend results are displayed.
+
+Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.
+
+6. Add a third term to your search, this time for Breakup (Topic). 
+a) Do you see any patterns that suggest a relationship between searches for Breakup 
+and Hamburger? 
+I do not see any patterns that can tie Hamburger searches and Breakup searches.
+b) How about between Breakup and Milkshake?
+There are small correlations between the Breakup and Milkshake, sometimes like between Feb 4-10, 2024 to Feb 11-17, there is a slight dip on both lines
+7. What does all of this suggest about the reliability of the conclusions reached in the 
+article?
+It would suggest it is not that reliable. Before adding the Hamburger line, the Milkshake line had a high of 100 and a low of 61. Once I added the Hamburger line, the new high for the Milkshake line was 28 and the new low was 17, This is a significant drop which just adding one more line of food
+
+8. At the upper right of Google Trends, click on the link for “Back to Classic Explore.”
+Notice that this view includes a section for “Compared breakdown by subregion.”
+a) What was the top state by interest for Milkshake?
+West Virginia
+b) What was the top state by interest for Hamburger?
+South Dakota
+
+9. Use the download icon to download a csv file with these search trend results. Save it 
+to your DataAnalytics/week-01 folder as GTrends_milkshake_hamburger_2024.csv
