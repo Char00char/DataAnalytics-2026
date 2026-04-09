@@ -1,0 +1,18 @@
+1. What do you envision yourself doing 5 minutes before class starts each day, to ensure that you are ready to start on time?
+I can see that 50% of people will be ready in someway for class while 45% are sure about something for class 
+The visualization is more helpful in my opinion. I enjoy seeing which words are used more being bigger than the others. I believe it is fin the way it is
+There are a lot of smaller outliers with some of them including the word ready
+
+2. Do you have a second monitor connected to your computer?
+I can see that 50% of people do have a second monitor from the visual graph, but when looking closer at the responses in "more details" , the 40% of people who used other instead of the no option made it seem like they had some special circumstance while 10% of the people who used other stated they do have a 2nd monitor
+The default summary is more helpful because the visual graph shows people who said yes and other, but not who actually meant no or yes 
+3. Do you have an external keyboard and mouse?
+The visual graph is fine here because while going into "more detail" the other people actually had special circumstances of having one but not the other. 45% people have both while 45% has neither.
+4. How do you plan to take notes for this class – in a doc on your computer, with pen and paper, or something else? 
+70% of people are going old school with pen and paper while 15% of people are going both and another 15% are using only computer
+The default summary is better because you are see what that the people who chose other are using both 
+
+5. What is one question that you have right now, about this course generally or about a specific topic we’ll be talking about?
+
+Not everyone who took the survey answered this one. 
+The default summary is better just because the visual shows so many outliers that only 2% of people said, it looks clogged and could benefit from only showing the top 5
