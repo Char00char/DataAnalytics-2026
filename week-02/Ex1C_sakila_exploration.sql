@@ -7,14 +7,8 @@ From the inventory table, you can see inventory_id,	film_id, store_id, last_upda
 I believe the best tables to do this would be the rental table, the inventory table, and the film table. You would be able to tie the inventory_id between the rental table and the inventory table to confirm which inventory has been rented, and then tie film_id between the inventory table and the film table to get the name of the film. Then tie everything together back with the invertory_id
 */
 
-SELECT rental_date FROM rental;
+SELECT rental_date, inventory_id FROM rental;
 
-SELECT inventory_id FROM rental;
+SELECT inventory_id, film_id FROM inventory;
 
-SELECT inventory_id FROM inventory;
-
-SELECT film_id FROM inventory;
-
-SELECT film_id FROM film;
-
-SELECT title FROM film;
+SELECT film_id, title FROM film;
