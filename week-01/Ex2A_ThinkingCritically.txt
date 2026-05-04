@@ -28,7 +28,7 @@ The new high is 28 an the lowest is 17
 5. Why did the line for Milkshake change? Hint: Click on the icon next to “Interest 
 over time” for more information about how trend results are displayed.
 
-Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.
+I believe the chart is out of 100 and since Hamburger was searched a lot more than Milkshake, the line for Milkshake dropped significantly 
 
 6. Add a third term to your search, this time for Breakup (Topic). 
 a) Do you see any patterns that suggest a relationship between searches for Breakup 

@@ -1,0 +1,22 @@
+Id,Start time,Completion time,Time to Complete,Email,Name,Please rate your overall experience with service,How would you rate your dining experience,How likely are you to recommend Sushi Queen to a friend or colleague?,How likely are you to return to in the next 30 days?,What did you order while dining at Sushi Queen?
+1,4/9/2026 0:58:40,4/9/2026 0:58:51,00:11,anonymous,,5,4,4,3,"Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);"
+2,4/9/2026 9:21:34,4/9/2026 9:21:50,00:16,anonymous,,5,5,10,10,"Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);Specialty Rolls (Shrimp Tempura Roll, Rainbow Roll, Dynamite Roll);"
+3,4/9/2026 9:56:13,4/9/2026 9:56:49,00:36,anonymous,,4,4,7,7,"Specialty Rolls (Shrimp Tempura Roll, Rainbow Roll, Dynamite Roll);"
+4,4/9/2026 10:24:23,4/9/2026 10:24:50,00:27,anonymous,,5,5,10,8,"Kitchen Entree (Hibachi, Yakisoba Noodle, Fried Rice);Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);Specialty Rolls (Shrimp Tempura Roll, Rainbow Roll, Dynamite Roll);"
+5,4/9/2026 11:43:03,4/9/2026 11:43:16,00:13,anonymous,,5,5,10,9,"Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);"
+6,4/9/2026 13:02:02,4/9/2026 13:03:16,01:14,anonymous,,5,5,8,6,"Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);"
+7,4/9/2026 13:09:25,4/9/2026 13:10:00,00:35,anonymous,,5,5,10,10,"Kitchen Entree (Hibachi, Yakisoba Noodle, Fried Rice);Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);Specialty Rolls (Shrimp Tempura Roll, Rainbow Roll, Dynamite Roll);"
+8,4/9/2026 15:48:26,4/9/2026 15:49:07,00:41,anonymous,,4,4,9,10,"Kitchen Entree (Hibachi, Yakisoba Noodle, Fried Rice);"
+9,4/10/2026 3:10:02,4/10/2026 3:10:25,00:23,anonymous,,5,5,9,8,"Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);"
+10,4/10/2026 12:02:58,4/10/2026 12:03:13,00:15,anonymous,,5,5,0,0,"Kitchen Entree (Hibachi, Yakisoba Noodle, Fried Rice);Classic Rolls (California Roll, Philadelphia Roll, Crabmeat Roll);Specialty Rolls (Shrimp Tempura Roll, Rainbow Roll, Dynamite Roll);"
+,,,00:29,,,4.8,4.7,7.7,7.1,17
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,Row Labels,Sum of How would you rate your dining experience,Sum of Please rate your overall experience with service,Sum of How likely are you to return to in the next 30 days?,,
+,,,,,0,5,5,0,,
+,,,,,4,4,5,3,,
+,,,,,7,4,4,7,,
+,,,,,8,5,5,6,,
+,,,,,9,9,9,18,,
+,,,,,10,20,20,37,,
+,,,,,Grand Total,47,48,71,,
