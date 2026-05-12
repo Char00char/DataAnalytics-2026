@@ -18,6 +18,6 @@ side_b = float(input("Enter the length of side B: "))
 area = side_a * side_b
 
 #Print the result
-print("Side A is", side_a)
-print("Side B is", side_b)
-print("The area of the rectangle is", area)
+print(f"Side A is {side_a}")
+print(f"Side B is {side_b}")
+print(f"The area of the rectangle is {area}")
